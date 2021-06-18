@@ -24,7 +24,7 @@ const App = () => {
         </figure>
       </header>
       <section class="Networks">
-        <h2>Networks:</h2>
+        <h2>Networks</h2>
         <ul>
           <li><a href="http://www.github.com/ellm">Github</a></li>
           <li><a href="http://www.twitter.com/matthewell">Twitter</a></li>
